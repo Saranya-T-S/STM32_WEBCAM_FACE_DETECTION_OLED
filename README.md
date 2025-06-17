@@ -34,7 +34,7 @@ This project demonstrates an embedded system application using the **STM32F103C6
 
 ## 🎥 Demo
 
-▶️ [Watch the working demo](./STM32_Face_Detection_Demo.mp4)
+▶️ [Watch Demo on Google Drive](https://drive.google.com/file/d/1XgHL1JgC6b6LPkRL8yUgNNtOnD6Kbw3e/view?usp=sharing)
 
 You can also download the full project with code and configs:
 📦 [Download ZIP](./STM32_OLED_FACE_DETECTION.zip)
